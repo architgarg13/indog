@@ -1,0 +1,99 @@
+.container
+{
+  text-align: center;
+
+}
+.contact{
+  margin-bottom: 8rem;
+}
+.col{
+  padding: 3%;
+}
+.icon{
+  margin-bottom: 1rem;
+}
+h6
+{
+  font-size: 1rem;
+  color: #898989;
+}
+.inputrow
+{
+  padding: 0.5rem;
+}
+.contact-head-me
+{
+  color: #ff4c68;
+}
+.firstcol{
+  display: grid;
+  padding: 1rem;
+}
+.secondcol
+{
+  display: grid;
+  padding: 1rem;
+}
+.thirdcol{
+  display: grid;
+  padding: 1rem;
+}
+section.contact input
+{
+  padding: 0.5rem;
+}
+section.contact textarea
+{
+  padding: 0.5rem;
+}
+.button
+{
+  position: relative;
+  left: 42%;
+}
+/* footer */
+.footer
+{
+  background-color: #ff4c68;
+}
+.img-logo{
+  position: relative;
+  left: 37%;
+  width: 8%;
+  margin-bottom: 3rem;
+  padding-top: 0.7rem;
+
+}
+h3
+{
+  font-family: "Montserrat";
+  color: white;
+  float: right;
+  position: sticky;
+  right: 40%;
+  padding-top: 2rem;
+}
+.footer-items
+{
+  padding: 3% 15%;
+}
+.footer-logo
+{
+  text-align: center;
+  padding: 2%;
+  position: relative;
+  padding-bottom: 5%;
+  right: 43%;
+}
+.footer-social
+{
+  text-align: center;
+  margin: 2rem 2rem 0 2rem  ;
+
+}
+.footer-cpr{
+  text-align: center;
+  font-weight: bold;
+  padding: 3rem;
+
+}
